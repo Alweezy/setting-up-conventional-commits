@@ -14,6 +14,11 @@ module.exports = {
         'database',
         'config',
         'ci',
+        'core',
+        'deps',
+        'testing',
+        'tooling',
+        'security'
       ],
     ],
     'header-max-length': [2, 'always', 50],
